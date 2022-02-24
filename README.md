@@ -1,4 +1,0 @@
-- 👋 Hi, I’m @RegJack45
-- 👀 I’m interested in coding and ICT
-- 🌱 I’m currently learning C++
-- 📫 How to reach me - just write mail
